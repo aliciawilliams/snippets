@@ -1,0 +1,352 @@
+id,market,name,mascot,mascot_name,mascot_common_name,tax_subspecies,tax_species,tax_genus,tax_family,tax_order,tax_class,tax_phylum,tax_kingdom,tax_domain,non_tax_type,flag
+aeaaef0d-5238-414e-ac04-c55a22cba208,Oakland,Golden Grizzlies,Golden Bear,,Golden Bear,californicus,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,Golden Bears,Golden Bear,Oski,Golden Bear,californicus,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6a67ba19-56a8-4dd8-a5ae-9e9f2523c274,Idaho State,Bengals,Bengal Tiger,Benny,Bengal Tiger,tigris,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+949c3398-85e4-4c63-ba71-9a82e06ddea4,Alabama A&M,Bulldogs,Bulldog,Butch,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+8ff733a9-9f93-46de-ba7e-cf6f7e429670,Louisiana Tech,Bulldogs,Bulldog,Tech,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,Saints,St. Bernard,Bernie,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,Venerated Peoples,1
+a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,South Carolina State,Bulldogs,Bulldog,,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+e19cfc47-f23f-4c64-ba29-2e6d12dc45b2,St. Francis (BKN),Terriers,Terriers,,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+3f0ac618-3742-471a-9d1f-03e08f3deca2,Northern Illinois,Huskies,Husky,Victor E Huskie,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+79871449-f5a1-4650-b3cf-85b78fd6943e,Gardner-Webb,Runnin' Bulldogs,Bulldog,Butch,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+aed211c3-23a4-4188-ad70-22c6eba7d765,Drake,Bulldogs,Bulldog,Spike,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,Terrapins,Boston Terrier,Testudo,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+ad9fce12-6b1a-400c-bcbe-29d84d065fc0,UNC Asheville,Bulldogs,Bulldog,Rocky,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+32755362-6336-4dd3-ac34-6f72a6cc150b,UMBC,Retrievers,Retriever,True Grit,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c13f96ba-c79c-452f-9f63-3b45fae4e543,Samford,Bulldogs,Bulldog,Libby,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+ca478771-aa3d-4231-81e0-b70f519134fb,Yale,Bulldogs,Bulldog,Handsome Dan,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+9916713f-b243-452b-93ae-a2c3ccabf68b,Wofford,Terriers,Terriers,Boss / Terri / Blitz III,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+175d34a7-3823-4e4f-9f11-2464f55360b8,Loyola (MD),Greyhounds,Greyhound,Iggy,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Illinois,Salukis,Saluki,Salukis,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+61dadefa-76bf-4db4-8067-f88df540b9cd,Bryant University,Bulldogs,Bulldog,Tupper,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+290a5130-836d-45e6-824f-28704d6ba246,Albany,Great Danes,Great Dane,Damien,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+efba5350-79bc-47aa-a189-db177b95b491,Connecticut,Huskies,Husky,Jonathan,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+de9a0e19-b83c-4b98-a6da-81c110cb364b,Boston University,Terriers,Terriers,,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,Bulldogs,Bulldog,Hairy Dawg,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi State,Bulldogs,Bulldog,Bully,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,Huskies,Husky,Harry,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+53aaac6a-796e-41a6-a04e-6ce74c5717f8,North Carolina A&T,Aggies,Bulldog,Aggie and Aggietha,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,Bulldogs,Bulldog,Spike,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,Hoyas,Bulldog,Jack,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+dd8db4d8-d984-4cab-b7f6-22c6b8c2c45f,Fresno State,Bulldogs,Bulldog,Victor E. Bulldog,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+412e7f0d-fb93-4e6e-be1f-9a4c7490d121,Citadel,Bulldogs,Bulldog,The General,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,Bulldogs,Bulldog,Butler Blue III,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+95a27dc5-16d5-4745-9adb-34c41e1444e8,Houston Baptist,Huskies,Husky,Kiza,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+93df9b18-e9fc-42a7-bb45-a736c203b4dc,Northeastern,Huskies,Husky,Paws,Domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+524e3eec-7dde-45c7-b3cc-6308cec73350,James Madison,Dukes,Bulldog,Duke Dog,domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,Aristocrats,1
+b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,Volunteers,Coonhound,Smokey X,domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+cc9e5424-ab3b-41ec-b2aa-7e8a73d759c6,Western Illinois,Leathernecks,Bulldog,,domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,Hoosiers,None,,domestic dog,familiaris,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,Golden Hurricane,Hurricane,Captain Cane,,,,,,,,,,,Weather,1
+ad4bc983-8d2e-4e6f-a8f9-80840a786c64,Arizona State,Sun Devils,Devil,Sparky,,,,,,,,,,,Devils,1
+f2d01b77-0f5d-4574-9e49-2a3eaf822e44,Drexel,Dragons,Dragon,Mario the Magnificent,,,,,,,,,,,Dragons,1
+b47d10b8-a2a5-47df-a2f9-7bd0b9d51beb,Bradley,Braves,Gargoyle,Kaboom!,,,,,,,,,,,,1
+0113eea0-c943-4fff-9780-ae0fb099e7ef,Canisius,Golden Griffins,Griffin,Petey,,,,,,,,,,,Griffins,1
+bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,Wolverines,None,,,,,,,,,,,,,1
+dfe0d93f-94a5-47fb-b7aa-f74786e09acb,Illinois-Chicago,Flames,Dragon,Sparky,,,,,,,,,,,Dragons,1
+61a3e5ab-1be3-4694-b83f-edae0953f409,Green Bay,Phoenix,Phoenix,Phlash,,,,,,,,,,,,1
+5873529e-e5e3-4a06-8a03-fa4cbe509880,Mississippi Valley State,Delta Devils,Devil,,,,,,,,,,,,Devils,1
+8accb91e-6086-41b3-a420-7a82fa442365,Elon,Phoenix,Phoenix,Elon,,,,,,,,,,,Mythical Creatures,1
+4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,Demon Deacons,Demon,Demon Deacon,,,,,,,,,,,Devils,1
+71874e7e-8260-43f9-bb7c-65f267dbe8ce,Northwestern State,Demons,Demon,Vic,,,,,,,,,,,Devils,1
+fe21a988-3e96-4f3c-8f9f-b449ccda43b0,Texas A&M-CC,Islanders,Tiki Totem,Izzy,,,,,,,,,,,,1
+17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,Waves,Wave,Willie,,,,,,,,,,,,1
+150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,Fighting Illini,None,,,,,,,,,,,,,1
+1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,Billikens,Billiken,,,,,,,,,,,,Mythical Creatures,1
+881380da-861c-4ab6-a7d2-20699d8ea883,Western Kentucky,Hilltoppers,Furry Blob,Big Red,,,,,,,,,,,,1
+ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,Aggies,Dustdevil,Dusty,,,,,,,,,,,Weather,1
+1b78e7f6-f25c-4921-98e2-9bc565f8dfb4,Detroit,Titans,Titan,Tommy,,,,,,,,,,,Mythical Creatures,1
+7a270923-01d6-4a6f-a93e-e8786266d502,Manhattan,Jaspers,None,,,,,,,,,,,,,1
+fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,Jayhawks,Jayhawk,Big Jay / Baby Jay,,,,,,,Aves,Chordata,Animalia,Eukaryota,,1
+472c22e0-843d-472c-a871-f1593fb0725d,Central Michigan,Chippewas,None,,,,,,,,,,,,,1
+63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,Blazers,Dragon,Blaze,Dragon,,,,,,,,,,Dragons,1
+ad24b724-a11c-4dcd-a68c-67c53833ccb7,William & Mary,Tribe,Griffin,Colonel Ebirt,Griffin,,,,,,,,,,Griffins,1
+3d2f0819-8f3b-4ff3-afd6-6227c469a751,Middle Tennessee,Blue Raiders,Winged Blue Horse,Lightning,Pegasus,,,,,,,,,,,1
+ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,Blue Demons,Demon,,Blue Demon,,,,,,,,,,Devils,1
+a93bf4f2-3724-4539-8c8a-9ac8ee3741a6,Central Connecticut State,Blue Devils,Devil,Kizer,Blue Devil,,,,,,,,,,Devils,1
+faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,Blue Devils,Devil,,Blue Devil,,,,,,,,,,Devils,1
+f7fcbb6e-4a55-41ea-ba21-f763ed914467,TCU,Horned Frogs,Horned Frogs,,Horned Frog,,ornata,Ceratophrys,Ceratophryidae,Anura,Amphibia,Chordata,Animalia,Eukaryota,,1
+39d00ef7-320d-47cf-a2fa-859bc24d16b4,UC Irvine,Anteaters,Anteater,Peter,Anteater,,tridactyla,Myrmecophaga,Myrmecophagidae,Pilosa,Mammalia,Chordata,Animalia,Eukaryota,,1
+9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,Spiders,Spider,WebstUR,Spider,,,,,Araneae,Arachnida,Arthropoda,Animalia,Eukaryota,,1
+683ab61f-546f-44da-b085-c3a5740554aa,Stanford,Cardinal,California Redwood,Stanford Tree,California Redwood,,sempervirens,Sequoia,Cupressaceae,Pinales,Pinopsida,Pinophyta,Plantae,Eukaryota,,1
+68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,Rebels,Rebel,Hey Reb!,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+2e78bd1b-9422-491e-9c73-37cf83b0e34e,USC Upstate,Spartans,Spartan,Sparty,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+a0fdb660-a822-4337-b01d-31c4d2c99c8a,Austin Peay,Governors,Governor,Governors,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Politicians,1
+6637ac5f-59c2-4888-af34-a86d138ccfb3,St. Francis (PA),Red Flash,Friar,Frankie the Friar,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Clergy,1
+500d7223-ecff-494b-9539-28427156c783,N.J.I.T.,Highlanders,Scotsman,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+6f676cba-c1f9-45a4-9016-fb408fd525b1,Denver,Pioneers,Pioneers,Denver Boone,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Explorers,1
+ad9a3e21-4585-4e35-8946-290fe4a16f18,La Salle,Explorers,Explorers,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Explorers,1
+fea46ac5-6dad-43cd-a770-75554dbcc118,Duquesne,Dukes,Duke,The Duke,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Aristocrats,1
+f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,Cornhuskers,Cornhuskers,Lil Red and Herbie Husker,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+f2cf9ba2-ac8c-4d92-8e7a-48dd88e8f40b,Radford,Highlanders,Human,Rowdy Red,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+3a000455-de7c-4ca8-880e-abdce7f21da9,USC,Trojans,Trojans,Traveler,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+79965018-7f6f-4273-9eef-65c99b592b01,Portland State,Vikings,Viking,Victor E. Viking,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Explorers,1
+b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's,Gaels,Gael,George Emmons,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,Commodores,Commodores,Mr. Commodore,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+87d88c93-29bc-4306-b0a6-87c6f6e80da1,Appalachian State,Mountaineers,Mountaineer,Yosef,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,Red Raiders,Raider and horse,Raider Red and The Masked Rider,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+ec6185b7-4e0c-4eb8-99ef-f3a4dccf6b91,Idaho,Vandals,Vandal,Joe,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+12d7f888-675b-459f-9099-a38f771d8a95,Purdue,Boilermakers,Human,Boilermaker Special,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Cratsmen,1
+a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan State,Spartans,Spartan,Sparty,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+6373b18c-62f6-49bc-bd4c-8959a2466516,Troy,Trojans,Trojans,T-Roy,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+3b6293f3-03db-46d2-8793-248963c2d83b,UC Santa Barbara,Gauchos,Gaucho,Olé,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+ab9a1315-293f-42d3-a164-860216e81576,Northern Kentucky,Norse,Viking,Viktor E. Viking,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+11a617d5-af03-4cce-bc8a-51114d9e41fe,Long Beach State,49ers,49er,Prospector Pete,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,49ers,1
+6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,Colonials,Colonial,RoMo,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Colonials,1
+a8f75c12-c4db-401f-99e3-b48209d85274,Norfolk State,Spartans,Spartan,No name,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+5fe4a398-1699-4442-a364-305b2f0ac01e,Mount St. Mary's,Mountaineers,Mountaineer,Emmit,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+e6c94452-1adf-4fb9-90e5-10f165c57c5a,Pennsylvania,Quakers,Quaker,The Penn Quaker,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+a7127c0a-a466-47ae-91ad-9a71ee2c9427,Wyoming,Cowboys,Cowboy,Cowboy Joe,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Cowboys,1
+e7ff6d5c-07e9-42af-955d-0a0b8c1e2288,New Orleans,Privateers,Pirate,Captain Bruno,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+d2ef641c-70e4-48bb-b40d-ac654d179205,McNeese State,Cowboys,Cowboys,Rowdy,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Cowboys,1
+7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,Friars,Friar,Friar Dom,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Clergy,1
+3556d445-b3f1-467e-b150-952b32dfb150,Sacred Heart,Pioneers,Pioneers,Big Red,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Explorers,1
+31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,Crusaders,Crusader,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Crusaders,1
+b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,Sooners,Human,Boomer & Sooner,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+29de4e5e-ee5b-48c8-bffc-1972e7da1e30,San Jose State,Spartans,Spartan,Sammy,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+620d5944-7156-47d3-aad5-5b3824557d03,San Diego,Toreros,Torero,Diego Torrero,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico State,Aggies,Cowboy,Pistol Pete,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Cowboys,1
+394d1b2b-7a19-4d43-b04a-5f366c24e5bf,Stetson,Hatters,Human,John B,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,49ers,49er,Norm,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,49ers,1
+1753768d-e46e-40b1-8d69-a8ae5cccec03,Northern Arizona,Lumberjacks,Lumberjack,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+a601205f-3bfe-4052-ac0b-b8f18cf3efd3,East Carolina,Pirates,Pirates,PeeDee,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+c0d19efd-d40c-4e32-8e90-dbcb28178b5d,Nicholls State,Colonels,Colonel,Colonel Tillou,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+cb732075-23a5-4e71-9037-50a7a002bdb2,Cal State Northridge,Matadors,Matadors,Matty,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida State,Seminoles,Human and horse,Osceola (historical Seminole leader) and Renegade (Osceola's horse),Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+e30c0417-b220-424e-886e-dd1249e2ca5a,Cleveland State,Vikings,Viking,Magnus,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Explorers,1
+5ef64f01-86ae-4553-9834-c79cc0859eaf,Stephen F. Austin,Lumberjacks,Lumberjack,LadyJack and Lumberjack,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,Pirates,Pirates,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+d24efd99-8717-43b9-a086-9986a684ac04,San Francisco,Dons,Don,Don Francisco,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Aristocrats,1
+224e3b21-30e7-4a05-9e8c-62721d581db8,Portland,Pilots,Pilots,Wally,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Pitlots,1
+0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,Musketeers,Musketeer,D'artagnon,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+5c7bf63f-bc39-43c5-9907-73b50b7a6b34,Harvard,Crimson,Pilgrim,John Harvard,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Pilgrims,1
+f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,Mountaineers,Mountaineer,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+161354af-1f3e-4d58-88f7-e016ec74b7b6,Hampton,Pirates,Pirates,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+612f7f66-1de1-4d42-b842-9a508daab911,UNC Greensboro,Spartans,Spartan,No Name,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+d4dc55b3-94fe-4d4f-b0bf-c50c5f064392,Hawaii,Warriors,Warrior,Vili,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,East Tennessee State,Buccaneers,Pirate,Bucky,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+d52c3640-069c-4554-982e-e6537c8044f1,George Washington,Colonials,Colonial,George,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Colonials,1
+255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,Gaels,Gael,Killian,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,Patriots,Patriot,Gunston,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego State,Aztecs,Aztec Warrior,Montezuma the Aztec Warrior,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+d60357bd-1205-42e9-9092-d986a2843a34,Dartmouth,Big Green,Corsair,Arnie,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,Cavaliers,Cavalier,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Aristocrats,1
+34dd83ac-64f2-4b73-8577-899b2a46f5cc,Toledo,Rockets,Astronaut,Rocky/ Rocksy,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Explorers,1
+b03bb029-4499-4a2c-9074-5071ed360b21,Rutgers,Scarlet Knights,Knight,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+80a19b57-d6ab-4bee-934f-33a72c2e958a,Colgate,Raiders,Raiders,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,Fighting Irish,Leprechaun,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+b06b63b0-20e6-4c78-bdcf-5feac3d7995e,Presbyterian,Blue Hose,Scotsman,Scottie,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,Minutemen,Minuteman,Sam,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+e48e3dd5-721c-4d96-8ff4-790fe2597bfd,Eastern Kentucky,Colonels,Colonel,Colonel,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+ca5318f2-48eb-4f6b-896a-966b900aa42f,Furman,Paladins,Knight,Paladin,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,Crusaders,Crusader,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Crusaders,1
+632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,Flyers,Pilot,Rudy Flyer,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+054c3e85-0552-4549-b123-7e84af6e7b6c,UCF,Knights,Knight and Horse,Knightro and Pegasus,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,Miners,Miners,Paydirt Pete,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+0dadedb0-2bd3-45e7-91a3-93af6c4e87f2,Arkansas-Little Rock,Trojans,Trojans,,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,,1
+8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma State,Cowboys,Cowboy,Pistol Pete,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Cowboys,1
+d8217105-e9c2-4267-9538-3aaeea1ae167,Evansville,Aces,Riverboat Gambler,Ace Purple,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Entrepreneurs,1
+a3fef707-e4fc-48a0-82f1-f4ef01b76f45,Charleston Southern,Buccaneers,Pirate,Bucky,Human,,sapiens,Homo,Hominidae,Primates,Mammalia,Chordata,Animalia,Eukaryota,Seafarers,1
+fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,Golden Gophers,Gopher,Goldy,Gopher,,,,Geomyidae,Rodentia,Mammalia,Chordata,Animalia,Eukaryota,,1
+532d3874-b4b3-4c5c-acc6-749a6db26c8f,Oregon State,Beavers,Beaver,Benny,North American beaver,,canadensis,Castor,Castoridae,Rodentia,Mammalia,Chordata,Animalia,Eukaryota,,1
+2a997096-a381-469d-a7e9-9e031c8b071c,Indiana State,Sycamores,Blue species-less genderless forest animal,Sycamore Sam,,,,,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6b170a32-8445-4cb1-8638-724996c3094b,UC Riverside,Highlanders,Bear,Scotty,Bear,,,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+55cd5bb4-b030-4a7a-9652-6cebaf81c574,Southeastern Louisiana,Lions,Lion,Roomie,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,Monarchs,Lion,Big Blue,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,Aristocrats,1
+1394dd8a-040e-4509-9ee3-761d60eaf6c9,Arkansas-Pine Bluff,Golden Lions,Lion,,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+36ca2008-cd2e-4549-8b3b-c745167e07f3,Hofstra,Pride,Lion,Kate and Willie Pride,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+441a11b4-b506-45b3-8030-fe72a4381c40,Loyola Marymount,Lions,Lion,,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4aebd148-8119-4875-954c-66779867989b,Penn State,Nittany Lions,Lion,Nittany Lion,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+ca74bd67-034c-4468-8487-6f983f5eb4f6,Columbia,Lions,Lion,Roaree,Lion,,leo,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+61a3908a-7492-4b6f-809e-12c61976bb0a,Loyola (IL),Ramblers,Wolf,Lu Wolf,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,Lobos,Wolf,Lobo,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+95826e36-ea33-4b51-83a8-7b4cc20999ee,Arkansas State,Red Wolves,Wolf,,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+9c396fa7-c165-4599-8542-158bd0d9a199,Wright State,Raiders,Wolf,Rowdy,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+22d90601-19d4-461b-a901-924d12f116ed,St. Bonaventure,Bonnies,Wolf,Bona,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+23426c0b-1705-4dfb-a0e2-efdbdd8fd6f6,Stony Brook,Seawolves,Wolf,Wolfie,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+52df1e19-b142-4a76-a439-ad68455d0581,North Carolina State,Wolfpack,Wolf,Mr. and Ms. Wuf,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,Wolf Pack,Wolf,Alphie and Wolfie Jr.,Wolf,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,Tigers,Tigers,,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c444e03b-d16b-48b2-9b18-823c2647d41d,Jackson State,Tigers,Tigers,Wavee Dave,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+87721c44-53a2-47aa-9b3a-0f1c99b0f328,Tennessee State,Tigers,Tigers,Aristocat,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,Tigers,Tigers,Truman,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,Tigers,Tigers,The Tiger,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,Tigers,Tigers,Aubie,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+eb157f98-0697-459c-9293-ddb162ceb28b,Texas Southern,Tigers,Tigers,,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+3eacc387-0ad8-4c5e-a666-c8ab447d224f,Savannah State,Tigers,Tigers,,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,Tigers,Tigers,live tiger,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6f3eec09-2918-4739-a0e8-5d79e14a8332,Towson,Tigers,Tigers,Doc,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,Tigers,Tigers,TOM III,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c9570e17-c4fd-41e6-908a-1a083941319d,Pacific,Tigers,Tigers,Powercat,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6776c7e6-f4c2-47bd-99e5-39fc179a3197,Grambling State,Tigers,Tigers,,Tiger,,tigris,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,Badgers,Badger,Bucky,Badger,,,,Mustelidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+bec40585-b587-4548-93f5-b7c00b046aea,Montana State,Bobcats,Bobcat,Champ,Bobcat,,rufus,Lynx,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6a8d2a24-2128-47a0-913f-3d29e9d6592c,Quinnipiac,Bobcats,Bobcat,Boomer the Bobcat,Bobcat,,rufus,Lynx,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+1e5dc9e4-c60d-487b-8279-dfbec9229faa,Texas State,Bobcats,Bobcat,Boko,Bobcat,,rufus,Lynx,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+327f09e2-e75f-4014-8ef7-caf9202cd583,Ohio,Bobcats,Bobcat,Rufus,Bobcat,,rufus,Lynx,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c206712f-2298-4279-b76c-834ac42809b9,SIU-Edwardsville,Cougars,Cougar,Eddie,Cougar,,Concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6bff595c-32cb-4028-837c-c7de2a2107e6,Western Carolina,Catamounts,Cougar,Paws,Cougar,,concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+8548dacb-3636-48a8-8c46-611ab0c15fc0,Charleston,Cougars,Cougar,Clyde,Cougar,,Concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2d4f0015-adb4-4877-8c15-4a6eed7eed03,Washington State,Cougars,Cougar,Butch T. Cougar,Cougar,,Concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+1f99a164-d593-4d81-85d5-0d7889d6f486,Houston,Cougars,Cougar,Shasta,Cougar,,Concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,Catamounts,Catamount,Rally,Cougar,,concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2f8c85a7-54f4-4942-be16-2cbac77c82d7,Chicago State,Cougars,Cougar,,Cougar,,Concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,Cougars,Cougar,Cosmo,Cougar,,Concolor,Puma,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+c946b7ac-5159-4817-93c4-fc9495c6425b,South Dakota,Coyotes,Coyote,Charlie Coyote,Coyote,,,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+10c614fa-9646-46cf-a1fb-5af96772bbb8,South Alabama,Jaguars,Jaguar,Miss Pawla / South Paw,Jaguar,,onca,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern University,Jaguars,Jaguar,LaCumba,Jaguar,,onca,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+90ec10eb-38a4-4a69-b072-ef71d294933b,IUPUI,Jaguars,Jaguar,Jinx / Jazzy / Jaws,Jaguar,,onca,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+67322042-9c40-4dc2-b33a-4754c02ec82a,Sam Houston State,Bearkats,Bearkat,Sammy and Samantha,Bearcat,,binturong,Arctictis,Viverridae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+fa0f8282-c4f1-490e-962c-f25350cd76f4,Binghamton,Bearcats,Bearcat,Baxter,Bearcat,,binturong,Arctictis,Viverridae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,Bearcats,Bearcat,The Bearcat,Bearcat,,binturong,Arctictis,Viverridae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+6af02334-9ac3-452f-bcf4-20abdb72bd07,Lafayette,Leopards,Leopard,,Leopard,,pardus,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+94ea835b-8ce9-4de2-a5b1-971548fea974,Georgia State,Panthers,Panther,Pounce,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+23fec4e7-108f-4569-85d1-bef2f794e925,Eastern Illinois,Panthers,Panther,Billy,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+5d77800f-1ae6-4b66-8e97-b0dbb8bbc717,Milwaukee,Panthers,Panther,Pounce,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a8ac24ca-3b7a-4610-ad99-042661584c48,Florida International,Golden Panthers,Panther,Roary,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2c93a75d-5449-4ec1-9ca2-1e6c812399a4,Northern Iowa,Panthers,Panther,TC & TK,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a311188e-1259-4fda-b0ea-c47cb52694b1,High Point,Panthers,Panther,Prowler,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,Panthers,Panther,Roc,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+91ec9ba2-12e5-4a75-9410-a166c82163fd,Prairie View A&M,Panthers,Panther,,Panther,,,Panthera,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+15d31915-fbd6-4ae3-8e4b-f3b563c56a18,Marist,Red Foxes,Red Fox,Frankie the Red Fox,Red fox,,vulpes,Vulpes,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,Wildcats,Wildcat,Scratch,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,Wildcats,Wildcat,Will E. Wildcat,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,Wildcats,Wildcat,Wilbur and Wilma,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4b7dedc0-7b48-49a4-aad6-8a94a33274d2,Northwestern,Wildcats,Wildcat,Willie,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,Wildcats,Wildcat,Will D. Cat,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+93cb009e-5bbf-4081-b2c9-44028fe28096,New Hampshire,Wildcats,Wildcat,"Wild E. Cat"" and ""Gnarlz"" ",Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a52b2ece-1f87-45b5-ae1e-8d0920479965,Abilene Christian,Wildcats,Wildcat,Willie,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+d203f38a-a166-4258-bca2-e161b591ecfb,Kansas State,Wildcats,Wildcat,Willie,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4743cb7c-784a-4b95-a380-5471f92f2217,Weber State,Wildcats,Wildcat,Waldo,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+0796c3b6-5308-4aa0-8fdc-c65d39b043c6,Bethune-Cookman,Wildcats,Wildcat,Wil D.,Wildcat,,silvestris,Felis,Felidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4200f37c-86e0-413e-a5c4-e5edf1e272e7,Utah Valley,Wolverines,Wolverine,Willy,Wolverine,,lupus,Canis,Canidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a14b0057-8eb5-43d2-a33b-666196da933e,Mercer,Bears,Black Bear,Toby,Black Bear,,americanus,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,Rebels,Black bear,Rebel,Black Bear,,americanus,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,Warriors,1
+0095032d-6143-44f2-8974-f6815fc56c5b,Maine,Black Bears,Black Bear,Bananas T. Bear,Black Bear,,americanus,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+dfc2dfb7-aa67-4c48-99c9-4fa6c6bc4355,Central Arkansas,Bears,Black Bear,Bruce D. Bear,Black Bear,,americanus,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,Bruins,Brown Bear,Bruiser,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,Bruins,Brown Bear,Joe Bruin,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+88ff8c00-958e-4ccf-a21d-77fab9e93692,Cornell,Big Red,Brown Bear,"Touchdown (or ""Big Red Bear"")",Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+576b816b-5b9a-4768-a62b-f8435a8272c2,Morgan State,Bears,Brown Bear,Benny,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+10f450ce-143b-4e46-8bfe-52c644b68b07,North Texas,Mean Green,Grizzly Bear,Scrappy,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+b83de2df-328f-4303-9895-cdff048fb1ed,Missouri State,Bears,Brown Bear,Boomer,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+558abf02-97f4-4323-aa99-63c076d35932,Brown,Bears,Brown Bear,Bruno,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+7e42fa84-68cd-47a6-b49a-18b5414d8084,Northern Colorado,Bears,Brown Bear,Klawz,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,Bears,Brown Bear,Judge,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,Mocs,Brown Bear,Monte,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+e3848467-66c0-41e5-8283-02e3586d8601,Montana,Grizzlies,Grizzly Bear,,Brown Bear,,arctos,Ursus,Ursidae,Carnivora,Mammalia,Chordata,Animalia,Eukaryota,,1
+f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita State,Shockers,Wheat,WuShock,Wheat,,,Triticum,Poaceae,Cyperales,Liliopsida,Magnoliophyta,Plantae,Eukaryota,,1
+cec2527e-5e1e-4817-a628-35666ef13b6e,Florida A&M,Rattlers,Diamondback Rattlesnake,Venom,Diamondback Rattlesnake,,,Crotalus,Viperidae,Serpentes,Squamata,Reptilia,Animalia,Eukaryota,,1
+63cad858-8654-4956-8438-8fe79cd1208a,Louisiana-Lafayette,Ragin' Cajuns,Cayenne Pepper,Cayenne,Cayenne,,annuum,Capsicum,Solanaceae,Solanales,Magnoliopsida,Tracheophyta,Plantae,Eukaryota,,1
+912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,Gators,Alligator,Albert and Alberta Gator,Alligator,,,Alligator,Alligatoridae,Crocodilia,Reptilia,Chordata,Animalia,Eukaryota,,1
+6ef40534-5fad-4755-84de-7dcbd645d1f0,South Dakota State,Jackrabbits,Rabbit,Jack,Hare,,,Lepus,Leporidae,Lagomorpha,Mammalia,Chordata,Animalia,Eukaryota,,1
+8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,Orange,Orange,Otto,Orange,,,Citrus,Rutaceae,Sapindales,Magnoliopsida,Magnoliophyta,Plantae,Eukaryota,,1
+857462b3-0ab6-4d26-9669-10ca354e382b,Ohio State,Buckeyes,Buckeye Nut,Brutus,Buckeye,,hippocastanum,Aesculus,Sapindaceae,Sapindales,Magnoliopsida,Tracheophyta,Plantae,Eukaryota,,1
+0affc15f-641d-4211-970d-fb9fb8d36842,Delaware,Fightin Blue Hens,Hen,YoUDee,Hen,domesticus,gallus,Gallus,Phasianidae,Galliformes,Aves,Chordata,Animalia,Eukaryota,,1
+13358462-e05b-4449-8688-90c4622cdde8,Jacksonville State,Gamecocks,Rooster,Cocky,Chicken,domesticus,gallus,Gallus,Phasianidae,Galliformes,Aves,Chordata,Animalia,Eukaryota,,1
+4af63ebd-d3c8-4772-bbde-938a078bd057,Coastal Carolina,Chanticleers,Rooster,Chauncey,Chicken,domesticus,gallus,Gallus,Phasianidae,Galliformes,Aves,Chordata,Animalia,Eukaryota,,1
+1c7ec608-3b36-4cee-adac-9265e3792597,South Carolina,Gamecocks,Rooster,Cocky,Chicken,domesticus,gallus,Gallus,Phasianidae,Galliformes,Aves,Chordata,Animalia,Eukaryota,,1
+e66d7ed2-9b4c-48c8-adaa-a276793b057d,St. Peter's,Peacocks,Peacock,Peahen,Peacock,,,,Phasianidae,Galliformes,Aves,Chordata,Animalia,Eukaryota,,1
+324ccccc-575b-4b82-acb0-fbb8e68da13b,Virginia Tech,Hokies,Fictional Bird,Hokiebird,Wild Turkey,,gallopavo,Meleagris,Phasianidae,Galliformes,Aves,Chordata,Animalia,Eukaryota,,1
+267d417a-8f85-4c87-a15a-068c089a74c6,Alabama State,Hornets,Hornets,www.gogriz.com/news/2016/10/27/general-monte-goes-pro-again.aspx?path...,Hornet,,,Vespa,Vespidae,Hymenoptera,Insecta,Euarthropoda,Animalia,Eukaryota,,1
+ffa04cde-aa2d-4e91-b2cd-bde2bfed44de,Delaware State,Hornets,Hornets,Buzz,Hornet,,,Vespa,Vespidae,Hymenoptera,Insecta,Euarthropoda,Animalia,Eukaryota,,1
+1dc13b18-f9b3-4bb9-b1cf-979fcd8c2b6f,Sacramento State,Hornets,Hornet,Herky,Hornet,,,Vespa,Vespidae,Hymenoptera,Insecta,Euarthropoda,Animalia,Eukaryota,,1
+0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,Yellow Jackets,Yellow Jacket,Buzz,Yellow Jacket,,,Vespula,Vespidae,Hymenoptera,Insecta,Arthropoda,Animalia,Eukaryota,,1
+c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,Crimson Tide,Elephant,Big Al,Elephant,,africana,Loxodonta,Elephantiade,Probosciade,Mammalia,Chordata,Animalia,Eukaryota,,1
+c009914b-3303-4dee-b915-978aa48a31d0,Cal State Fullerton,Titans,Elephant,Tuffy,Elephant,,africana,Loxodonta,Elephantiade,Probosciade,Mammalia,Chordata,Animalia,Eukaryota,Mythical Creatures,1
+22984593-0701-4648-b8a8-f6d695238620,IPFW,Mastodons,Mastodons,Don,Mastodon,,,Mammut,Mammutidae,Proboscidea,Mammalia,Chordata,Animalia,Eukaryota,,1
+1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,Ducks,Duck,The Oregon Duck,Duck,,,,Anatidae,Anseriformes,Aves,Chordata,Animalia,Eukaryota,,1
+a381465b-4530-4a00-a50c-5253cd7695a0,Fairfield,Stags,Stag,Lucas,Deer,,,,Cervidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,Midshipmen,Goat,Bill,Goat,hircus,aegagrus,Capra,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,Buffaloes,Buffalo,Ralphie,Bison,bison,bison,Bison,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+984e7518-e418-45d5-9797-979b8c2085c1,North Dakota State,Bison,Bison,Thundar,Bison,bison,bison,Bison,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,Bison,Bison,Bucky,Bison,bison,bison,Bison,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+58d8baa3-7624-4b21-a47f-a23df2bf8859,Marshall,Thundering Herd,Bison,Marco,Bison,bison,bison,Bison,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+a2b8223d-40b3-4076-b5df-55655c2f8591,Lipscomb,Bisons,Bison,LU bison,Bison,bison,bison,Bison,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+22fbe5dc-c6db-4675-b3a3-2d8af7f5d313,Howard,Bison,Bison,Bison,Bison,bison,bison,Bison,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,Rams,Rams,Rhody,Sheep,,aries,Ovis,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,Tar Heels,Sheep,Rameses,Sheep,,aries,Ovis,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+7888d144-563d-4f84-b99b-d120aecf1fef,Fordham,Rams,Rams,The Ram,Sheep,,aries,Ovis,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,Virginia Commonwealth,Rams,Ram,Rodney,Sheep,,aries,Ovis,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+1a470730-f328-4fb1-8bbf-36a069e4d6b2,Colorado State,Rams,Rams,CAM,Sheep,,aries,Ovis,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+6e5dfe2c-28cc-411f-b846-af8436093ab2,Campbell,Fighting Camels,Camel,Gaylord,camel,,,Camelus,Camelidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+fb28bd56-9e56-40c1-992d-71c1e27fe4fd,Jacksonville,Dolphins,Dolphin,Nellie,Dolphin,,,Cetacea,Delphinida,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+6ed15092-2670-450a-99c2-61d861e87644,Texas,Longhorns,Cow,Bevo,Dairy Cattle,,taurus,Bos,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+55af9c69-3675-4b9b-a882-96640b782fff,South Florida,Bulls,Bull,Rocky,Dairy Cattle,,taurus,Bos,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+a9f5c9a2-342c-4881-9996-5d5c05ec9bd9,Buffalo,Bulls,Bull,Victor E. Bull,Dairy Cattle,,taurus,Bos,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah State,Aggies,Bull,Big Blue,Dairy Cattle,,taurus,Bos,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+68d2aa5b-714f-4652-96f3-b71e1752413f,Nebraska-Omaha,Mavericks,Bull,,Dairy Cattle,,taurus,Bos,Bovidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,Razorbacks,Red Russian Boar,Tusk / Big Red,Russian Boar,,scrofa,Sus,Suidae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+f7e6acc3-0778-4de5-940a-d88e20df1159,Grand Canyon,Antelopes,Pronghorn Antelope,Thunder,Pronghorn Antelope,,americana,Antilocapra,Antilocapridae,Artiodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+953151f2-1e42-4cb0-a99e-202493a64dcf,UTSA,Roadrunners,Roadrunner,Rowdy,Roadrunners,,californianus,Geococcyx,Cuculidae,Cuculiformes,Aves,Chordata,Animalia,Eukaryota,,1
+2da57857-b038-4ad3-8199-e3fb339f57d2,Cal State Bakersfield,Roadrunners,Roadrunner,Rowdy,Roadrunners,,californianus,Geococcyx,Cuculidae,Cuculiformes,Aves,Chordata,Animalia,Eukaryota,,1
+bb384635-c3a0-459a-8f13-fcd7177313e5,Rice,Owls,Owls,Sammy,Owls,,,,,Strigiformes,Aves,Chordata,Animalia,Eukaryota,,1
+8598d1b6-106b-4083-a512-2e495729525a,Temple,Owls,Owls,Hooter,Owls,,,,,Strigiformes,Aves,Chordata,Animalia,Eukaryota,,1
+2e8442e9-bd09-4d46-9dd3-de79433287f3,Kennesaw State,Owls,Owls,Sturgis - Live Owl / Scrappy - Costume,Owls,,,,,Strigiformes,Aves,Chordata,Animalia,Eukaryota,,1
+c851131a-5ecd-4670-81bc-b40f4837dd65,Florida Atlantic,Owls,Owls,Owlsley,Owls,,,,,Strigiformes,Aves,Chordata,Animalia,Eukaryota,,1
+227d3567-d57b-417e-afc4-735e4cb308a1,Virginia Military,Keydets,Kangaroo,Moe,Kangaroo,,marsupialia,Macropus,Macropodidae,Diprotodontia,Mammalia,Chordata,Animalia,Eukaryota,,1
+56fe0ab2-e4f0-47b9-8726-9ce23ebcde20,Akron,Zips,Kangaroo,Zippy,Kangaroo,,marsupialia,Macropus,Macropodidae,Diprotodontia,Mammalia,Chordata,Animalia,Eukaryota,,1
+820c8f26-cf11-4997-b2e2-19f47bd2f72f,UMKC,Kangaroos,Kangaroo,Kasey,Kangaroo,,marsupialia,Macropus,Macropodidae,Diprotodontia,Mammalia,Chordata,Animalia,Eukaryota,,1
+a9e4d292-d074-40e7-a81a-f9342929b979,Bowling Green,Falcons,Falcon,Freddie and Frieda Falcon,Falcon,,,Falco,Falconidae,Falconiformes,Aves,Chordata,Animalia,Eukaryota,,1
+aa7af640-5762-4686-9181-39f7b8a8186e,Air Force,Falcons,Falcon,Gyrfalcon,Falcon,,,Falco,Falconidae,Falconiformes,Aves,Chordata,Animalia,Eukaryota,,1
+7d797407-623e-476d-b299-46de4275414d,Creighton,Bluejays,Blue Jay,Billy,Blue Jay,,cristata,Cyanocitta,Corvidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+912671c7-19fd-451b-813e-885485427820,Incarnate Word,Cardinals,Cardinal,Red,Cardinal,,,Cardinalis,Cardinalidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+509aacc4-c121-46a2-800a-d5431ef181d2,Illinois State,Redbirds,Redbird,Reggie,Cardinal,,,Cardinalis,Cardinalidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+b795ddbc-baab-4499-8803-52e8608520ab,Louisville,Cardinals,Cardinal,Louie,Cardinal,,,Cardinalis,Cardinalidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+eda6c307-1e0f-4a28-82f4-ee9653b343fb,Lamar,Cardinals,Cardinal,Big Red,Cardinal,,,Cardinalis,Cardinalidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+315c4deb-3c9d-413d-a369-7168f2545d21,Ball State,Cardinals,Cardinal,Charlie,Cardinal,,,Cardinalis,Cardinalidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+0e4258fa-3154-4c16-b693-adecab184c6c,Iowa State,Cyclones,Cardinal,Cy,Cardinal,,,Cardinalis,Cardinalidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+82c12e8d-7c6c-47d8-b100-3cbc190d268e,LIU Brooklyn,Blackbirds,Blackbird,Blackbirds,Blackbird,,merula,Turdus,Turdidae,Passeriformes,Aves,Chordata,Animalia,Eukaryota,,1
+c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's,Red Storm,Thunderbird,Johnny,Thunderbird,,,,Teratornithidae,Cathartiformes,Aves,Chordata,Animalia,Eukaryota,,1
+c7116621-45ed-4ab1-9ad9-dee524120569,Southern Utah,Thunderbirds,Thunderbirds,,Thunderbird,,,,Teratornithidae,Cathartiformes,Aves,Chordata,Animalia,Eukaryota,,1
+7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),Hurricanes,Ibis,Sebastian,Ibis,,,,Threskiornithidae,Pelecaniformes,Aves,Chordata,Animalia,Eukaryota,Weather,1
+399ad7fb-de60-45a6-a71f-d26e00f1a4ec,Tulane,Green Wave,Pelican,Riptide,Pelican,,,Pelecanus,Pelecanidae,Pelecaniformes,Aves,Chordata,Animalia,Eukaryota,,1
+6dfaf0ba-47c4-4e05-b0a7-72734747d48f,Army,Black Knights,Mule,Army Mules,Mule,,,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,Aristocrats,1
+3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,Mustangs,Mustang,Peruna,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+92456e1e-f48c-4385-96ab-14cb27d18726,Texas Rio Grande Valley,Vaqueros,Horse,Bucky,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray State,Racers,Horse,Dunker,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+b71d5a1b-2671-4e5a-b94b-06bfb22a27dd,Fairleigh Dickinson,Knights,Horse and devil,,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+c1c54dbf-805c-47fc-a707-c803e94db2a4,Boise State,Broncos,Bronco,Buster,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+8aaad1c0-d16e-4b9f-8541-dac670addd71,UC Davis,Aggies,Mustang,Gunrock,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+7c2b372b-b5f0-466e-90cf-880beec57584,Texas-Arlington,Mavericks,Horse,Blaze,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+45439cdb-af7a-4743-936c-dccc76b30877,Cal Poly,Mustangs,Mustang,Musty,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+f2164f01-2cbc-4967-bb1c-93656d790921,Western Michigan,Broncos,Bronco,Buster,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+0b73b9b9-1e29-4b14-b5d8-0405fe942e32,Rider,Broncs,Bronco,AJ,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+600aad0e-85e7-4db8-be0b-94ba02a08e55,Longwood,Lancers,Horse,Elwood,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+28023973-1d9d-4d01-b939-dc8f9b44fb1c,Santa Clara,Broncos,Bronco,Bucky,Horse,caballus,ferus,Equus,Equidae,Perissodactyla,Mammalia,Chordata,Animalia,Eukaryota,,1
+de8fc8a7-253f-4597-8a48-a0104ef226ae,North Dakota,Fighting Hawks,Hawk,,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+9febd5fa-982f-4f40-ad1d-8e49be96cf4f,Tennessee-Martin,Skyhawks,Hawk,Captain,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),RedHawks,Redhawks,Swoop,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+d20216d8-161c-46e3-b8d2-92208ddf5acf,Maryland-Eastern Shore,Hawks,Hawk,,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+4927ef8b-e680-4fb8-b10e-2ea3eff32eab,Massachusetts Lowell,River Hawks,River Hawk,Rowdy,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+18585f21-1d63-4400-974c-433fd5073c34,Louisiana-Monroe,Warhawks,Red Hawk,Ace,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+508f503f-dc57-4f4c-a01e-4f195e5c05c8,Lehigh,Mountain Hawks,Hawk,Clutch,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+dba620d9-7282-4638-bf05-13caf48eeed1,Hartford,Hawks,Hawk,Howie,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,Hawkeyes,Hawk,Herky,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+1bddc811-44cf-4e53-b4ab-11c8dc82c9de,Alcorn State,Braves,Hawk,,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+3db7336c-c18a-441b-912e-e2a4408f12ea,Monmouth,Hawks,Hawk,Shadow,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's (PA),Hawks,Hawk,The Hawk,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+7e100f63-0b32-49f6-a954-f5b7c8cf48ad,Seattle,Redhawks,Redhawks,Rudy,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+6a7083ab-1832-48c0-9168-427b35adbcde,Southeast Missouri State,Redhawks,Redhawks,Rowdy,Hawk,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+5f9a90a2-3926-404e-8c8a-d9f22ad6907d,Coppin State,Eagles,Eagle,,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,Eagles,Eagle,Big Stuff,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+6b955b96-b736-475e-bffd-e4acf2054169,Georgia Southern,Eagles,Eagle,,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+54df21af-8f65-42fc-bc01-8bf750856d70,Eastern Washington,Eagles,Eagle,Swoop,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+e4c315a0-e83f-4d14-856e-34a0463059e3,North Carolina Central,Eagles,Eagle,,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+b7747a03-c85b-4de6-94bf-1b5b68553248,Morehead State,Eagles,Eagle,Beaker,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+2ed86226-3fff-4083-90fa-6b02307e6f73,Eastern Michigan,Eagles,Eagle,,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+2f513e67-f019-4eec-9096-fbc5911858b6,American University,Eagles,Eagle,,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+559db90c-741f-40d1-aa81-3fdd1d4889f3,Liberty,Flames,Eagle,Sparky,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+f7575278-12ec-494a-b544-427c1759d43d,Niagara,Purple Eagles,Eagle,,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,Eagles,Eagle,Baldwin,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+5326c079-3dc3-468f-a601-b776dd9c1e62,Florida Gulf Coast,Eagles,Eagle,Azul,Eagle,,,,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+09920a5f-1b25-466c-b5ae-6167214f5ba9,North Florida,Ospreys,Osprey,Ozzie,Osprey,,haliaetus,Pandion,Pandionidae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+3b644902-cd06-4930-9a3e-6c78cfb1f464,Wagner,Seahawks,Osprey,,Osprey,,haliaetus,Pandion,Pandionidae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+c54279f9-3028-4663-893a-7d22482f8098,North Carolina-Wilmington,Seahawks,Osprey,Blitz,Osprey,,haliaetus,Pandion,Pandionidae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+fe037cba-25d9-42f5-a461-61d7102c17de,Tennessee Tech,Golden Eagles,Golden Eagle,Awesome,Golden Eagle,,chrysaetos,Aquila,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,Golden Eagles,Golden Eagle,,Golden Eagle,,chrysaetos,Aquila,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+3da4798c-2d58-4dac-b66e-ad145a91b544,Kent State,Golden Flashes,Golden Eagle,Flash,Golden Eagle,,chrysaetos,Aquila,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+095417ae-62b0-4109-afc4-d92918599dd4,Oral Roberts,Golden Eagles,Golden Eagle,Eli,Golden Eagle,,chrysaetos,Aquila,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+6120ac5d-e0f2-4b28-9e6f-ee71596a7e88,Southern Miss,Golden Eagles,Golden Eagle,Southern Miss and Lady Eagles,Golden Eagle,,chrysaetos,Aquila,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,Utes,Red-tailed Hawk,Swoop,Red-tailed Hawk,,lineatus,Buteo,Accipitridae,Accipitriformes,Aves,Chordata,Animalia,Eukaryota,,1
+da7d41bc-48b0-4a04-948f-792d6470bcb5,Youngstown State,Penguins,Penguin,Pete and Penny,Penguin,,,,Spheniscidae,Sphenisciformes,Aves,Chordata,Animalia,Eukaryota,,1
